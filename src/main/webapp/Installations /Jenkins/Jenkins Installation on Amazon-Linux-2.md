@@ -1,12 +1,6 @@
 ## Step by Step guide to install Jenkins on Amazon Linux.
 ![1](https://user-images.githubusercontent.com/119833411/241403167-c18c66fb-7b35-4c87-9bc5-ec7bd403062d.jpg)
-### Prerequisites:
-**Minimum hardware requirements:**
-* 256 MB of RAM Enough for doing proof of concept (POC). 
-* 1 GB of drive space (although 10 GB is a recommended minimum if running Jenkins as a Docker container)
-**Recommended hardware configuration for a small team:**
-* 4 GB+ of RAM.
-* 50 GB+ of drive space.
+
 **Software requirements:**
 * Jenkins require Java-11 or later versions.
 * Open Port.No 8080 in EC2-security group. (8080 is Default port of Jenkins)
