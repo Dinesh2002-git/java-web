@@ -47,7 +47,7 @@ cd /opt/tomcat
 # Create a tomcat user and assign manager-gui, manager-script ,manager-jmx, manager-status roles.
 vi conf/tomcat-users.xml
 # Add the below line before tomcat-users-tag.
-<user username="sampath" password="sampath" roles="manager-gui,manager-script,manager-jmx,manager-status"/>
+<user username="tomcat" password="tomcat" roles="manager-gui,manager-script,manager-jmx,manager-status"/>
 </tomcat-users>
 press Esc
 :wq 
@@ -92,9 +92,8 @@ http://Public IPv4 address:8080/
 ### You can access Server Status, Manager App and Host Manager by entering tomcat username and password.
 ```
 # if you have changed it use what you have used in tomcat-users.xml file.
-username="sampath" 
-password="sampath"
+username="tomcat" 
+password="tomcat"
 
 ```
 
-### Hope this post was helpful for you all. please leave feedback at sampathshivakumar@gmail.com , https://www.linkedin.com/in/sampathsivakumar-boddeti-1666b810b/ if any thankyou.
