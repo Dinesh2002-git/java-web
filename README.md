@@ -19,7 +19,7 @@ mvn clean package
 
 
 ### war file will be created inside target directory after build is successful.
-![9]([WhatsApp Image 2025-06-05 at 14 55 53_19c07002](https://github.com/user-attachments/assets/a1baba26-bf8d-4003-a94f-434d4814589b)
+![9](WhatsApp Image 2025-06-05 at 14 55 53_19c07002](https://github.com/user-attachments/assets/a1baba26-bf8d-4003-a94f-434d4814589b)
 
 ### Output.
 Deploy the war file on tomcat server to see the following output.
