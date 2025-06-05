@@ -1,30 +1,29 @@
-## Java-Web-Apps ##
+## java-web ##
 
 ###  Copy the project url.
-![5](https://github.com/sampathshivakumar/Java-Web-Apps/assets/119833411/bd17e123-23b4-4a52-ab89-684a66842b31)
+![5](![image](https://github.com/user-attachments/assets/1b6681b2-d7ca-4b54-bd1f-82b5fb88ed55))
 
 ### Clone the project locally using git cmd.
 ```
-git clone https://github.com/sampathshivakumar/Java-Web-Apps.git
+git clone https://github.com/NikhilRaj-2003/java-web.git
 
 ```
-![6](https://github.com/sampathshivakumar/Java-Web-Apps/assets/119833411/af35d48c-5f1a-4967-9b02-05422ab4a4db)
-
-![7](https://github.com/sampathshivakumar/Java-Web-Apps/assets/119833411/64ae9228-19f5-488e-aacf-cf6adcbf0972)
+![6](![image](https://github.com/user-attachments/assets/70126de4-7174-40fe-a925-cf320473b71c))
 
 ### Create a package using mvn cmd.
 ```
 mvn clean package 
 
 ``` 
-![8](https://github.com/sampathshivakumar/Java-Web-Apps/assets/119833411/b05d6ac7-5146-4e94-8ff4-5f7a7039b2c6)
+![8](![image](https://github.com/user-attachments/assets/80cdeac5-bd44-4bc3-8da2-afefb0abeca7))
+
 
 ### war file will be created inside target directory after build is successful.
-![9](https://github.com/sampathshivakumar/Java-Web-Apps/assets/119833411/be0ebc4c-42e6-4523-9dec-2e533baa2163)
+![9](![WhatsApp Image 2025-06-05 at 14 55 53_19c07002](https://github.com/user-attachments/assets/a1baba26-bf8d-4003-a94f-434d4814589b))
 
 ### Output.
 Deploy the war file on tomcat server to see the following output.
-![output](https://github.com/sampathshivakumar/Java-Web-Apps/assets/119833411/41905126-b51d-4b86-b62b-580c87aeaadf)
+![output](![image](https://github.com/user-attachments/assets/476f83f7-7aa7-45b9-97d7-3bb98eebdbe4))
 
 
 
