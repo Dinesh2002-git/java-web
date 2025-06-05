@@ -1,4 +1,4 @@
-### java-web ###
+### Used for deploying (.war) file called java-web ###
 
 ###  Copy the project url to your local machine.
 ![5](https://github.com/user-attachments/assets/1b6681b2-d7ca-4b54-bd1f-82b5fb88ed55)
